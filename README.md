@@ -1,4 +1,4 @@
-### Hello! I'm Ansumane. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+.### Hello! I'm Ansumane. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-AnsumaneMane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansumane-man%C3%A9-60ab6b17/)](https://www.linkedin.com/in/ansumane-man%C3%A9-60ab6b17/)
 
